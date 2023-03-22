@@ -8,7 +8,6 @@ console.log('useRuntimeConfig', config)
 
 <template>
   <div>
-    <NuxtWelcome />
     <Meow/>
     <pre>{{ config }}</pre>
   </div>
